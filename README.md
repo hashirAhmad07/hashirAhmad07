@@ -27,6 +27,9 @@
 <span align="left">
 <a href="https://codewithhashir007.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashirAhmad07/hashirAhmad07/main/images/blogger.png" alt="Hashir Ahmed" height="40" width="50" /></a>
 </span>
+<span align="left">
+<a href="https://www.instagram.com/im_.hashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashirAhmad07/hashirAhmad07/main/images/blogger.png" alt="Hashir Ahmed" height="40" width="50" /></a>
+</span>
 
 
 ## Languages and Tools 
