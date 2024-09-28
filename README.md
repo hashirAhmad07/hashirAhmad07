@@ -25,7 +25,7 @@
 <a href="https://replit.com/@hashirahmad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashirAhmad07/hashirAhmad07/main/images/replit.svg" alt="Hashir Ahmed" height="60" width="90" /></a>
 </span>
 <span align="left">
-<a href="https://codewithhashir007.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashirAhmad07/hashirAhmad07/main/images/blogger.png" alt="Hashir Ahmed" height="60" width="90" /></a>
+<a href="https://codewithhashir007.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hashirAhmad07/hashirAhmad07/main/images/blogger.png" alt="Hashir Ahmed" height="60" width="70" /></a>
 </span>
 
 
